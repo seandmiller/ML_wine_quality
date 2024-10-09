@@ -1,5 +1,5 @@
 pytorch_env/
 wine_quality.csv
-wine_quality.pth 
+wine_quality.pth
 wine_scaler.joblib
 random_forest_wine_model.pth 
