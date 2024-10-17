@@ -49,3 +49,4 @@ A quality label in the range of 0 (very bad) to 10 (very excellent). It is the m
 ## Instructions
 
 Very simple, first create a virtual enviroment and to run the Neural Network model simple run the command "python3 nn.py" to run the random forest algorithm the command is 'python3 rf.py' the output will be printed out in the terminal. This is simply a test to see the behaviors of different models.
+You can also load saved models and predict from external data using 'python3 load_nn.py' and 'python3 load_rf.py'
